@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 (he/him)
 
-I'm alex - a sophomore studying computer science and statistics at [UBC] (https://www.ubc.ca/) in Vancouver, Canada. I am broadly interested in both computer science research (in computer vision, systems, and theory) and quantitative finance. You can learn more about me on my website [here] (https://alexhan.codes/).
+I'm alex - a sophomore studying computer science and statistics at [UBC](https://www.ubc.ca/) in Vancouver, Canada. I am broadly interested in both computer science research (in computer vision, systems, and theory) and quantitative finance. You can learn more about me on my website [here](https://alexhan.codes/).
 
 ### currently 🌱
 
@@ -26,4 +26,4 @@ I'm alex - a sophomore studying computer science and statistics at [UBC] (https:
 
 ### contact 💬
 
-Feel free to reach out on [linkedin] (https://www.linkedin.com/in/alexhan01/) or directly via email at (alexhan0324@gmail.com)!
+Feel free to reach out on [linkedin](https://www.linkedin.com/in/alexhan01/) or directly via email at (alexhan0324@gmail.com)!
