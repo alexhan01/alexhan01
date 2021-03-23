@@ -21,7 +21,6 @@ I'm alex - an undergraduate studying computer science and statistics at [UBC](ht
 
 ### currently 🌱
 
-- Seeking summer (May - Aug) '21 internships in software development or computer science research
 - Exploring web devlopment, playing around kaggle, and getting my feet wet with competitive programming
 
 ### contact 💬
