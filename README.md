@@ -1,4 +1,4 @@
-### hello! 👋
+### Hello! I'm Alex (he/him) 👋
 
 <!--
 **alexhan01/alexhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(he/him)
+```json
+  {
+    "bio": "ubc cs+stats",
+    "currently": "incoming research + software @Amgen"
+  }
+```
 
 I'm alex - an undergraduate studying computer science and statistics at [UBC](https://www.ubc.ca/) in Vancouver, Canada. I am broadly interested in both computer science research (in computer vision, systems, and theory) and quantitative finance. You can learn more about me on my website [here](https://alexhan.codes/).
 
-### currently 🌱
+### currently learning 🌱
 
-- Exploring web devlopment, playing around kaggle, and getting my feet wet with competitive programming
+- ML + Scientific Computing + Systems
 
 ### contact 💬
 
