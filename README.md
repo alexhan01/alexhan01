@@ -18,15 +18,19 @@ Here are some ideas to get you started:
 ```json
   {
     "bio": "ubc cs+stats",
-    "currently": "incoming research + software @Amgen"
+    "currently": "swe intern @ apple",
+    "incoming": "swe intern @ citadel securities + nuro",
+    "prev": "swe intern @ amgen"
   }
 ```
 
-I'm alex - an undergraduate studying computer science and statistics at [UBC](https://www.ubc.ca/) in Vancouver, Canada. I am broadly interested in both computer science research (in computer vision, systems, and theory) and quantitative finance. You can learn more about me on my website [here](https://alexhan.codes/).
+I'm alex - an undergraduate studying computer science and statistics at [UBC](https://www.ubc.ca/) in Vancouver, Canada. I am broadly interested in both computer science research (in computer vision, systems, and theory) and quantitative finance. You can learn more about me on my website.
 
 ### currently learning 🌱
 
-- ML + Scientific Computing + Systems
+- distributed systems
+- low latency stuff
+- ml system design
 
 ### contact 💬
 
